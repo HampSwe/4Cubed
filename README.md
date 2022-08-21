@@ -1,2 +1,2 @@
 # 4Cubed
-This repository hosts a game that I created in Unity.
+This repository hosts the game "4Cubed" that I created using Unity.
